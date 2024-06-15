@@ -1,0 +1,8 @@
+{
+  "name": "Dual Monitor Window Swap",
+  "description": "Swaps the top window on the primary monitor with the top window of the secondary",
+  "uuid": "windowswap@georgiboy.dev",
+  "shell-version": [
+    "45"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "windowswap",
+  "description": "A gnome extension that swaps the top window on the primary monitor with the top window of the secondary",
+  "version": "0.0.0",
+  "type": "module",
+  "author": "George <george@george-gentoo>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^9.5.0",
+    "eslint-plugin-jsdoc": "^48.2.12",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@girs/gjs": "^4.0.0-beta.5",
+    "@girs/gnome-shell": "^46.0.0-beta8"
+  }
+}
